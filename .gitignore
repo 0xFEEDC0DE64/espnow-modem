@@ -1,0 +1,4 @@
+CMakeLists.txt.user
+build/
+dependencies.lock
+sdkconfig.old
